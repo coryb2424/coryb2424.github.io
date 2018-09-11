@@ -1,0 +1,31 @@
+.button {
+  padding: 13px 0px;
+  text-align: center;
+  background-color: $pastel-green;
+  border-radius: 30px;
+  opacity: 0.8;
+
+  &:hover {
+    opacity: 1;
+  }
+
+  a {
+    color: white;
+    text-decoration: none;
+
+    &:hover {
+      color: white;
+      text-decoration: none;
+    }
+  }
+
+  input {
+    color: white;
+    text-decoration: none;
+
+    &:hover {
+      color: white;
+      text-decoration: none;
+    }
+  }
+}
